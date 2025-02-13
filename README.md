@@ -8,7 +8,7 @@ A responsive landing page for "Study MBBS Abroad" built with HTML, Tailwind CSS,
 - Lead generation form with validation.
 
 ## Live Demo
-[View Live Demo](https://study-mbbs-abroad.vercel.app)
+[View Live Demo](https://abroad-university-insights.vercel.app)
 
 ## Setup
 1. Clone the repository.
